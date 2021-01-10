@@ -4,7 +4,6 @@ This repository is a collection of codes that has been discussed in the session 
 
 # You can run the codes here directly:
 ### 10th Jan
-
 > https://repl.it/@RBCoders/SimpleIf#main.py
 
 > https://repl.it/@RBCoders/SimpleIfElse#main.py
