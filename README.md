@@ -20,3 +20,10 @@ This repository is a collection of codes that has been discussed in the session 
 > https://repl.it/@RBCoders/Jan16Compare3Numbers
 
 > https://repl.it/@RBCoders/Jan16KingQueen
+
+### 17th Jan
+> https://repl.it/@RBCoders/SimpleDictionary#main.py
+
+> https://repl.it/@RBCoders/SimpleDictionary2#main.py
+
+> https://repl.it/@RBCoders/SimpleSocialNetwork#main.py
