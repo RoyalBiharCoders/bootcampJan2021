@@ -1,0 +1,31 @@
+DS based approach:
+1. Ghats has to be stored in some kind of data structure
+2. Take Two inputs - ghat(string) & number of members(integer)
+3. Check for ghat
+4. Check for availability
+5. Transactions if input are valid
+6. Show other options if quantity is more than available
+7. Ask to choose from other options
+8. Repeat the process till a successful transaction
+9. On a successful transaction, update the ghat with new availability
+10. Exit the code
+
+Non DS based approach:
+1. Store each ghat as variable
+2. Assign respective availability as integer
+3. Take Two inputs - ghat(string) & number of members(integer)
+4. Check for ghat
+5. Check for availability
+6. Transactions if input are valid
+7. Show other options if quantity is more than available
+8. Ask to choose from other options
+9. Repeat the process till a successful transaction
+10. On a successful transaction, update the ghat with new availability
+11. Exit the code
+
+
+Bonus:
+1. Handle for integer values less than 0
+2. Handle for integer values greater than a fixed number
+3. Handle for "0 member allocation"
+4. Handle for capital and small letters in input
